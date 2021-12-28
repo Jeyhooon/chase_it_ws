@@ -1,6 +1,6 @@
 # chase_it_ws
 
-Udacity's SW Engineer Course - Second Project: Go Chase It!
+Udacity's Robotic SW Engineer Course - Second Project: Go Chase It!
 The project is about creating a mobile robot in a gazebo world that follows a white ball. It consist of two packages: `my_robot` (creating the robot and the world), `ball_chaser` (nodes for detecting the white ball and driving the robot).
 
 ![images/ball_chaser_robot.png](images/ball_chaser_robot.png)
